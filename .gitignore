@@ -1,0 +1,10 @@
+Library/
+Temp/
+Build/
+Logs/
+obj/
+*.psd
+*.mp4
+*.mov
+*.zip
+.DS_Store
