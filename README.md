@@ -10,7 +10,7 @@ QuakeScape is an interactive augmented reality application that visualizes real 
 
 <br>
 
-![Earthquake marker detail](MapScaled.jpg)
+![Earthquake marker detail](MapScaled2.jpg)
 
 *Close-up view showing earthquake magnitude markers and spatial positioning on the terrain model.*
 
